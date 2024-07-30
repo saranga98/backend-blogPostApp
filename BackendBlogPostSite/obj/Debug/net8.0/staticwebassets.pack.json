@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\0ce9ed1d-d059-4d19-bbee-75ddb5c8c31a_icons8-expired-64.png",
+      "PackagePath": "staticwebassets\\images\\0ce9ed1d-d059-4d19-bbee-75ddb5c8c31a_icons8-expired-64.png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\0f7c60a9-d1fb-4e26-90be-59c5f7aa0d86_download (1).png",
+      "PackagePath": "staticwebassets\\images\\0f7c60a9-d1fb-4e26-90be-59c5f7aa0d86_download (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\1354021.png",
+      "PackagePath": "staticwebassets\\images\\1354021.png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\14a28992-6bf0-4b32-84b1-031152163549_nk_AIInfluencer_offplatform.jpg",
+      "PackagePath": "staticwebassets\\images\\14a28992-6bf0-4b32-84b1-031152163549_nk_AIInfluencer_offplatform.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\28d3719a-b236-4d02-b96d-141b36385d3c_images.jpg",
+      "PackagePath": "staticwebassets\\images\\28d3719a-b236-4d02-b96d-141b36385d3c_images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\3d-house-middle-tree_476046-23.jpg",
+      "PackagePath": "staticwebassets\\images\\3d-house-middle-tree_476046-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\4dee2c80-5240-4f4e-9266-3a787d8e5105_1330535.png",
+      "PackagePath": "staticwebassets\\images\\4dee2c80-5240-4f4e-9266-3a787d8e5105_1330535.png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\7868245f-8d7d-442d-993b-781db7254f72_ai-generated-minimalist-with-a-single-flower-symbolizing-a-mother-s-love-and-nurturing-presence-free-photo.jpeg",
+      "PackagePath": "staticwebassets\\images\\7868245f-8d7d-442d-993b-781db7254f72_ai-generated-minimalist-with-a-single-flower-symbolizing-a-mother-s-love-and-nurturing-presence-free-photo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\af8afbcd-70b9-41f2-b8d1-ce8e79cdd0b5_aerial-view-woman-using-computer-laptop-working-hot-tea-drink_53876-24779.jpg",
+      "PackagePath": "staticwebassets\\images\\af8afbcd-70b9-41f2-b8d1-ce8e79cdd0b5_aerial-view-woman-using-computer-laptop-working-hot-tea-drink_53876-24779.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\f635447b-33a7-44f8-9449-bf330d5e4b2f_images (1).jpg",
+      "PackagePath": "staticwebassets\\images\\f635447b-33a7-44f8-9449-bf330d5e4b2f_images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\f99e4a70-e635-4632-aefe-cc916c58b18b_icons8-cheese-96.png",
+      "PackagePath": "staticwebassets\\images\\f99e4a70-e635-4632-aefe-cc916c58b18b_icons8-cheese-96.png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\icons8-cheese-96.png",
+      "PackagePath": "staticwebassets\\images\\icons8-cheese-96.png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\icons8-education-100.png",
+      "PackagePath": "staticwebassets\\images\\icons8-education-100.png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\icons8-pending-100.png",
+      "PackagePath": "staticwebassets\\images\\icons8-pending-100.png"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\images (2).jpg",
+      "PackagePath": "staticwebassets\\images\\images (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\new-windows-11-color-waves-theme-wallpapers-light-dark-v0-0b0imwctxt6b1.jpg",
+      "PackagePath": "staticwebassets\\images\\new-windows-11-color-waves-theme-wallpapers-light-dark-v0-0b0imwctxt6b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Madara\\source\\repos\\BackendBlogPostSite\\BackendBlogPostSite\\wwwroot\\images\\wp4902400.jpg",
+      "PackagePath": "staticwebassets\\images\\wp4902400.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BackendBlogPostSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BackendBlogPostSite.props",
+      "PackagePath": "build\\BackendBlogPostSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BackendBlogPostSite.props",
+      "PackagePath": "buildMultiTargeting\\BackendBlogPostSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BackendBlogPostSite.props",
+      "PackagePath": "buildTransitive\\BackendBlogPostSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
